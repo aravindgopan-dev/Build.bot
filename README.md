@@ -8,8 +8,13 @@ Traditional website development is time-consuming and complex, creating challeng
 An AI-powered platform that instantly generates fully functional web applications based on simple user inputs, automating design, content, and functionality creation.
 
 
-##Architecture
+## Architecture
 ![architecture image](./nextjs.png)
+
+## UI
+![Login](./login.png)
+![bott](./bot.png)
+
 
 
 
